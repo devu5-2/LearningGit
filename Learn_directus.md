@@ -34,3 +34,14 @@ Includes a media library for managing and organizing files, with support for sto
 ## Open Source:
 Directus is free and open-source, with an active community and enterprise-grade features for scaling projects.
 
+------------------------------------------------------------------------------------------------------
+
+# Use Cases of Directus
+### Content Management: 
+- Ideal for managing structured content for websites, mobile apps, or digital experiences.
+#### Data-Driven Applications: 
+- Simplifies the backend for apps requiring data retrieval and management.
+### E-Commerce: 
+- Can manage products, categories, and orders in a customizable manner.
+### Business Intelligence: 
+- Enables companies to manage and visualize relational data from multiple sources.
